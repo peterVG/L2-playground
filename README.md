@@ -14,5 +14,8 @@ Hardware and software testing playground to determine minimum, cheapest compute 
 - Acquire cheap new compute: Raspberry Pi v? (x5) (@peterVG)
 
 ## Step 3
-- Install Linux (which version?) (@peterVG)
+- Determine which Linux version to use (@peterVG)
+
+## Step 4
+- Install same Linux version of Playstations and Pis (@archerfuse)
   
