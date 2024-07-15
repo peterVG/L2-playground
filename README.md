@@ -24,5 +24,6 @@ Hardware and software testing playground to determine minimum, cheapest compute 
 - Demonstrate a Logos HelloWorld!
   * Logos is a fully decentralised, privacy-preserving, and politically neutral technology stack
   * Logos is composed of three primary protocols: Nomos, Codex, and Waku, for consensus, file storage, and communication respectively.
-* Step 5.a Install a [Nomos node](https://github.com/logos-co/nomos-node) and connect to a local testnet :white_check_mark
+* Step 5.a Install a [Nomos node](https://github.com/logos-co/nomos-node) and connect to a local testnet
+  
   
