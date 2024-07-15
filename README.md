@@ -8,7 +8,7 @@ Hardware and software testing playground to determine minimum, cheapest compute 
 
 ## Step 1
 - Acquire cheap used compute: Playstation 3 (x5) (@archerfuse)
-  - brick them and install Linux OS (see Step2) (@archerfuse)
+  - brick them and install Linux OS (see Step3) (@archerfuse)
 
 ## Step 2
 - Acquire cheap new compute: Raspberry Pi v? (x5) (@peterVG)
