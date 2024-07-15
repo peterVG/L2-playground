@@ -8,7 +8,7 @@ Hardware and software testing playground to determine minimum, cheapest compute 
 
 ## Step 1
 - Acquire cheap used compute: Playstation 3 (x5) (@archerfuse)
-  - brick them and install Linux OS (see Step3) (@archerfuse)
+  - brick them to prepare for Linux OS install (@archerfuse)
 
 ## Step 2
 - Acquire cheap new compute: Raspberry Pi v? (x5) (@peterVG)
@@ -17,5 +17,12 @@ Hardware and software testing playground to determine minimum, cheapest compute 
 - Determine which Linux version to use (@peterVG)
 
 ## Step 4
-- Install same Linux version of Playstations and Pis (@archerfuse)
+- Install same Linux version on Playstations and Pis (@archerfuse)
+
+## Step 5
+- Install [Logos Network](https://logos.co) 
+- Demonstrate a Logos HelloWorld!
+  * Logos is a fully decentralised, privacy-preserving, and politically neutral technology stack
+  * Logos is composed of three primary protocols: Nomos, Codex, and Waku, for consensus, file storage, and communication respectively.
+* Step 5.a Install a [Nomos node](https://github.com/logos-co/nomos-node) and connect to a local testnet :white_check_mark
   
