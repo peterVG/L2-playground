@@ -1,7 +1,7 @@
 # Orcfax L2 playground
 
 ## About
-Hardware and software testing playground to determine minimum, cheapest compute requirements for running a L2 consensus network capable of collecting, validate, and publishing datum to the Cardano blockchain.
+Hardware and software testing playground to determine minimum, cheapest compute requirements for running a L2 consensus network capable of: collecting, validating, publishing, and archiving data to the Cardano and Arweave blockchains.
 
 
 -----
